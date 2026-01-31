@@ -6,7 +6,7 @@ A Bash Script for rotating monitors in Hyprland that can be toggled via a keybin
 
 ## Installation
 
-** 1. `git clone https://github.com/isaiah76/hypr-rotate-monitor.git` or download `install.sh`**
+**1. `git clone https://github.com/isaiah76/hypr-rotate-monitor.git` or download `install.sh`**
 
 **2. Make sure the installer script is executable:**
 
